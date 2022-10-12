@@ -205,6 +205,7 @@ Repository | Description
 [**HackThisSite**](https://www.hackthissite.org/)   | Practice and expand your hacking skills.                     |
 [**Cyber Talents**](https://cybertalents.com/challenges/)   | Hands-on practical scenariosin different cyber security fields. |
 [**OverTheWire**](https://overthewire.org/wargames) | Practice security concepts in the form of fun-filled games.  |
+[**HackTheBox**](https://www.hackthebox.com/) | Hands-On Penetration Testing for All Skill Levels.  |
 
 
 # OSINT (Open Source INTelligence)
